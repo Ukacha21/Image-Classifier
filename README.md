@@ -15,7 +15,7 @@ For **testing** use [validator](validator.py) or [ui-validator](ui-validator.py)
 **What you can improve**
 If you have the time and resources you can improve the training usnig a larger dataset, increasing number of epochs and image resolution.
 
-In bot 3 and 40 epochs models a resolution of 96x96 pixels is used
+In both 3 and 40 epoch models a resolution of 96x96 pixels is used
 
 ```python
     img_height, img_width = 96, 96
