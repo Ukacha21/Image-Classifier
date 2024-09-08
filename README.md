@@ -6,11 +6,11 @@ For **testing** use [validator](validator.py) or [ui-validator](ui-validator.py)
 
 **Requirements:**
 
-*Numpy
-*Matplotlib
-*Tensorflow
-*OpenCV
-*Pillow(PIL)
+* Numpy
+* Matplotlib
+* Tensorflow
+* OpenCV
+* Pillow(PIL)
 
 **What you can improve**
 If you have the time and resources you can improve the training usnig a larger dataset, increasing number of epochs and image resolution.
