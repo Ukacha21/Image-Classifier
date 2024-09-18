@@ -13,7 +13,8 @@ For **testing** use [validator](validator.py) or [ui-validator](ui-validator.py)
 * Pillow(PIL)
 
 **What you can improve**
-If you have the time and resources you can improve the training usnig a larger dataset, increasing number of epochs and image resolution.
+
+If you have the time and resources you can improve the training using a larger dataset, increasing number of batch sizes, epochs, image resolution, etc.
 
 In both 3 and 40 epoch models a resolution of 96x96 pixels is used
 
