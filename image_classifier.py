@@ -1,3 +1,20 @@
+"""
+Python 3.12.3
+opencv-contrib-python     4.10.0.84
+opencv-python             4.10.0.84
+pillow                    10.3.0
+numpy                     1.26.4
+matplotlib                3.9.1
+--------------------------------
+tensorboard               2.17.0
+tensorboard-data-server   0.7.2
+tensorflow                2.17.0
+tensorflow-intel          2.17.0
+
+
+"""
+
+
 import cv2  as cv
 import os
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
