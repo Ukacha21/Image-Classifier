@@ -48,11 +48,11 @@ resized_image.save(path)
 
 2- Only trained models are included in this repo,
 
-    * cat_dog_classifier-3_epochs_x96px.keras 
+    - cat_dog_classifier-3_epochs_x96px.keras 
 
 and
 
-    * cat_dog_classifier-40_epochs_x96px.keras
+    - cat_dog_classifier-40_epochs_x96px.keras
 
 the dataset isnt a availabe, but you can find even larger datasets in places like kaggle.
 
