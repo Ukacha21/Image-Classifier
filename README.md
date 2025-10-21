@@ -1,6 +1,6 @@
 ### Image Classifire with Tensorflow.Keras
 
-This classifier identifies Cats and Dog in general. Unlike ciphar10 or ciphar100, this classifier model was trained on a custom local dataset of nearly 4800 images for each classname, which means, dont expect it to perform too well.
+This classifier identifies Cats and Dog in general. Unlike ciphar10 or ciphar100, this classifier model was trained on a custom local dataset of nearly 4800 images for each classname.
 
 For **testing** use [validator](validator.py) or [ui-validator](ui-validator.py)
 
@@ -58,6 +58,7 @@ the dataset isnt a availabe, but you can find even larger datasets in places lik
 
 Other issues are mentioned as docstrings within the 
 [image_classifier.py](image_classifier.py) file.
+
 
 
 
